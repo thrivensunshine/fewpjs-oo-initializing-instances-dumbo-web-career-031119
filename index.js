@@ -5,3 +5,20 @@ class Breakfast{
     this.drink = drink
   }
 }
+
+
+class Lunch{
+  constructor(sald, soup, drink){
+    this.salad = salad
+    
+  }
+  
+}
+
+
+class Dinner{
+constructor(){
+  
+}
+}
+
